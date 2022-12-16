@@ -1,6 +1,5 @@
 # Os algoritmos foram feitos com base no livro Estruturas de Dados e Seus Algoritmos, e implementados na linguagem R.
 
-# Francisco Junior Peixoto Dantas
 # Algoritmo 6.1 Subir
 subir = function(x, i){
   j = i%/%2
